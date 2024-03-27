@@ -63,24 +63,24 @@
             </label>
             <span class="mdl-textfield__error">Input is not a number!</span>
           </div>
+          <div>
+            <!-- Button -->
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit">
+              Calculate
+            </button>
         </form>
-        <div>
-          <!-- Button -->
-          <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" type="submit">
-            Calculate
-          </button>
-        </div>
-      </div>
-      <div class="column-2">
-        <br />
-        <br />
-        <img src="./images/Area-of-a-Trapezoid (1).png" alt="Area of a Trapezoid formula" class="area-formula" />
-        <br />
-        <br />
-        <img src="./images/tapezoid Perimeter (1).jpeg" alt="Perimeter of a Trapezoid formula" class="perimeter-formula" />
-        <br />
       </div>
     </div>
+    <div class="column-2">
+      <br />
+      <br />
+      <img src="./images/Area-of-a-Trapezoid (1).png" alt="Area of a Trapezoid formula" class="area-formula" />
+      <br />
+      <br />
+      <img src="./images/tapezoid Perimeter (1).jpeg" alt="Perimeter of a Trapezoid formula" class="perimeter-formula" />
+      <br />
+    </div>
+  </div>
   </div>
 </body>
 

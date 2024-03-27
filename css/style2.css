@@ -1,0 +1,42 @@
+/* Created by: Clara Tyman
+* Created on: March 2024
+* This file contains the CSS for index.html
+*/
+
+body {
+  background-color: plum;
+}
+
+.content {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.page-content-php {
+  float: left;
+  font-size: x-large;
+  padding-top: 20px;
+}
+
+.column-2 {
+  float: right;
+  width: 50%;
+  padding-left: 700px;
+}
+
+.area-formula {
+  width: 400px;
+}
+
+.perimeter-formula {
+  width: 400px;
+}
+
+.mdl-layout-title {
+  padding-left: 450px;
+}
