@@ -7,11 +7,6 @@ body {
   background-color: plum;
 }
 
-.content {
-  padding-left: 10px;
-  padding-right: 10px;
-}
-
 .column {
   float: left;
   width: 50%;

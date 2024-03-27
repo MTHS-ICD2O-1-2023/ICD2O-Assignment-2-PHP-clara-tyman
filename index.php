@@ -74,10 +74,10 @@
     <div class="column-2">
       <br />
       <br />
-      <img src="./images/Area-of-a-Trapezoid (1).png" alt="Area of a Trapezoid formula" class="area-formula" />
+      <img src="./images/Area-of-a-Trapezoid.png" alt="Area of a Trapezoid formula" class="area-formula" />
       <br />
       <br />
-      <img src="./images/tapezoid Perimeter (1).jpeg" alt="Perimeter of a Trapezoid formula" class="perimeter-formula" />
+      <img src="./images/tapezoid Perimeter.jpeg" alt="Perimeter of a Trapezoid formula" class="perimeter-formula" />
       <br />
     </div>
   </div>
